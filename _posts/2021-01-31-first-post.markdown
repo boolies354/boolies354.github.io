@@ -4,7 +4,7 @@ title: "마케터인 내가 데이터사이언스 공부를 시작한 이유"
 date: 2021-01-31 15:13:18 +0200
 image: 20210131.jpg
 tags: [jekyll, docs]
-categories: datascience
+categories: life
 ---
 
 안녕하세요, Finn the Marketer 입니다.
