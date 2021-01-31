@@ -3,7 +3,7 @@ layout: post
 title: "마케터인 내가 데이터사이언스 공부를 시작한 이유"
 date: 2021-01-31 15:13:18 +0200
 image: 20210131.jpg
-tags: [jekyll, docs]
+tags: [datascience, 데이터과학]
 categories: life
 ---
 
